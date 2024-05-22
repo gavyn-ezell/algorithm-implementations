@@ -8,5 +8,6 @@ Graphs
 - Dijkstra's Algorithm for Shortest Path
 
 Sorting
-- TODO...
+- Bubble Sort
+- Merge Sort
 
